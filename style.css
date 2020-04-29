@@ -1,0 +1,59 @@
+body {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    background-color: darkblue;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-shadow: 0 0 3px black;
+    background: linear-gradient(to right, #0000cc, #000088);
+    width: 100%;
+}
+
+.color1, .color2 {
+    width: 80px;
+    height: 40px;
+    border-radius: 5px;
+}
+
+h4 {
+    color: yellow;
+}
+
+.randomGradient {
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+    border-radius: 5px;
+    background-color: lightgrey;
+    font-size: 14px;
+    align-self: center;
+}
+
+.randomGradient:hover {
+    background-color: lightslategray;
+}
+
+.colorPickers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.swap {
+    height: 35px;
+    width: 40px;
+    font-size: 24px;
+    font-weight: bolder;
+    border-radius: 5px;
+    background-color: gray;
+    margin: 0px 15px;
+    color: black;
+}
+
+.swap:hover {
+    color: white;
+}
