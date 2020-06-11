@@ -1,3 +1,3 @@
-This is a sample project to refresh my Git and GitHub knowledge.
+Generate a smooth linear gradient between two colors, and get the CSS code line to add it to your project!
 
-The files uploaded are from 'Background Gradients Generator' project, a simple one-page generator of two-color gradients. Enjoy!
+https://simplebeat.github.io/backgroundGenerator/
